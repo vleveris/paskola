@@ -1,0 +1,2 @@
+# paskola
+Paskolų skaičiuotuvas
